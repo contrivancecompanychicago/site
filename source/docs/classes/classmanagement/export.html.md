@@ -8,7 +8,7 @@ full_width: true
 Class data (including students workspaces) can be exported. We would recommend the data is exported before you [Delete a Class](/docs/classes/classmanagement/delete/)
 
 - Select the class, go to the **Admin** area and then press the **Class Data** button.
-
+**update image**
 <img alt="Class Export" src="/img/docs/class_export.png" class="simple"/>
 
 - All the data from the class will be compiled into a zip file in the background and when ready an email will be sent to you with a link for you to download. 
@@ -38,10 +38,10 @@ Use this to download a CSV of project access data. Details include:
 - Project completed (Date/Time when the project was completed)
 - List of IPs (List of IP addresses associated with the project)
 
-Note: where role in class is teacher and project name associates with a students project, this will be where a teacher in the class has [accessed](/docs/classes/monitor/studentcode) the students project 
+Note: where role in class is teacher and project name associates with a students project, this will be where a teacher in the class has [accessed](/docs/classes/monitor/studentcode) the students project.
 
 - Select the class, go to the **Admin** area and then press the **Project Access Data** button.
-
+**update image**
 <img alt="Class Export" src="/img/docs/class_export.png" class="simple"/>
 
 
@@ -57,7 +57,7 @@ Use this to download a CSV of user access to units in the class. Details include
 - IP address (IP address associated with login session)
  
 - Select the class, go to the **Admin** area and then press the **User Access Data** button.
-
+**update image**
 <img alt="Class Export" src="/img/docs/class_export.png" class="simple"/>
 
 
